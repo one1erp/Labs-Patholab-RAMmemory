@@ -1,0 +1,12 @@
+C:\Users\ashim\Downloads\C%23 Console Program to Check RAM Memory Size\C#\RAMmemory\bin\Debug\RAMmemory.exe.config
+C:\Users\ashim\Downloads\C%23 Console Program to Check RAM Memory Size\C#\RAMmemory\bin\Debug\RAMmemory.exe
+C:\Users\ashim\Downloads\C%23 Console Program to Check RAM Memory Size\C#\RAMmemory\bin\Debug\RAMmemory.pdb
+C:\Users\ashim\Downloads\C%23 Console Program to Check RAM Memory Size\C#\RAMmemory\obj\Debug\RAMmemory.csproj.CoreCompileInputs.cache
+C:\Users\ashim\Downloads\C%23 Console Program to Check RAM Memory Size\C#\RAMmemory\obj\Debug\RAMmemory.exe
+C:\Users\ashim\Downloads\C%23 Console Program to Check RAM Memory Size\C#\RAMmemory\obj\Debug\RAMmemory.pdb
+C:\Work\Patholab Proj\RAMmemory\RAMmemory\bin\Debug\RAMmemory.exe.config
+C:\Work\Patholab Proj\RAMmemory\RAMmemory\bin\Debug\RAMmemory.exe
+C:\Work\Patholab Proj\RAMmemory\RAMmemory\bin\Debug\RAMmemory.pdb
+C:\Work\Patholab Proj\RAMmemory\RAMmemory\obj\Debug\RAMmemory.csproj.CoreCompileInputs.cache
+C:\Work\Patholab Proj\RAMmemory\RAMmemory\obj\Debug\RAMmemory.exe
+C:\Work\Patholab Proj\RAMmemory\RAMmemory\obj\Debug\RAMmemory.pdb
